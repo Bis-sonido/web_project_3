@@ -1,0 +1,9 @@
+.place__paragraph-content{
+  max-width: 55%;
+}
+@media screen and (max-width: 704px){
+  .place__paragraph-content{
+    max-width: 100%;
+    margin: 0 16px;
+  }
+}

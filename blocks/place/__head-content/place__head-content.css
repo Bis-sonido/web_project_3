@@ -1,0 +1,12 @@
+.place__head-content{
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+@media screen and (max-width: 960px){
+  .place__head-content{
+    justify-content: flex-start;
+    max-height: 508px;
+  }
+}

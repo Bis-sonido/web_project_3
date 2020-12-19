@@ -1,0 +1,9 @@
+@media screen and (max-width: 704px){
+  .footer__items{
+    height: 125px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
