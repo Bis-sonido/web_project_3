@@ -22,7 +22,6 @@
   .place{
     max-width: 928px;
     grid-template-columns: 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
   }
 }
 @media screen and (max-width: 960px){
