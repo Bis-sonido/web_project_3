@@ -1,7 +1,7 @@
 .place__image{
-  display: flex;
   max-width: 460px;
   max-height: 460px;
+  grid-area: place__image;
 }
 @media screen and (max-width: 1220px){
   .place__image{
@@ -17,7 +17,7 @@
 }
 @media screen and (max-width: 704px){
   .place__image{
-    min-width: 320px;
-    min-height: 320px;
+    max-width: 320px;
+    max-height: 320px;
   }
 }

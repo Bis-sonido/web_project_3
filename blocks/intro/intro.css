@@ -2,27 +2,26 @@
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
 @import url(./__span/intro__span.css);
+@import url(./__subtitle/intro__subtitle.css);
 
 .intro{
   display: flex;
   position: relative;
   flex-direction: column;
   width: 690px;
-  min-height: 569px;
   margin: 92px 442px 92px auto;
+  font-family: 'inter', 'arial', 'sans-serif';
 }
 
 @media screen and (max-width: 1220px){
   .intro{
     width: 690px;
-    min-height: 569px;
     margin: 92px 286px 92px auto;
   }
 }
 @media screen and (max-width: 960px){
   .intro{
     width: 720px;
-    min-height: 543px;
     margin: 92px auto;
   }
 }
@@ -31,7 +30,6 @@
     display: flex;
     flex-flow: column wrap;
     max-width: 288px;
-    min-height: 543px;
     margin: 64px auto;
   }
 }

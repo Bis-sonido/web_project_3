@@ -4,22 +4,20 @@
 @import url(./__title/lead__title.css);
 
 .lead{
-  width: 984px;
-  min-height: 615px;
+  width: 928px;
   position: relative;
   display: flex;
   flex-direction: column;
   margin: 58px auto 92px auto;
+  font-family: 'inter', 'arial', 'sans-serif';
 }
 @media screen and (max-width: 960px){
   .lead{
     max-width: 100%;
-    min-height: 615px;
   }
 }
 @media screen and (max-width: 704px){
   .lead{
-    min-height: 406px;
     margin: 50px auto 0 auto;
   }
 }
