@@ -27,7 +27,6 @@
 }
 @media screen and (max-width: 704px){
   .intro{
-    display: flex;
     flex-flow: column wrap;
     max-width: 288px;
     margin: 64px auto;

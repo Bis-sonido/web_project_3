@@ -1,6 +1,5 @@
 @media screen and (max-width: 704px){
   .footer__items{
-    max-width: 168px;
     position: relative;
     display: flex;
     flex-direction: column;
