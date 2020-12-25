@@ -1,5 +1,7 @@
 # Project 3: From Portland to Portland
 
+[Link to project](https://bis-sonido.github.io/web_project_3/)
+
 From Portland to Portland is a project design to briefly describe a few travel destinations for travel lovers who want to explore exotic places. This website has a simple layout when it comes to its visual style. All content of the page is adjusted in the center of the site. Website divisions as follow:
 
 ### Layout
